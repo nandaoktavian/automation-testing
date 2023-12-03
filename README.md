@@ -62,8 +62,3 @@ https://testautomationu.applitools.com/cypress-tutorial/
 
 # Cypress Commands
 [Framework for Cypress Automation](https://docs.cypress.io/api/commands/get)
-
-
-Cypress version:
-
-![image](https://github.com/nandaoktavian/automation-testing/assets/152750200/ff5bff58-bcaa-4575-843c-38e7415a58ca)
