@@ -31,16 +31,6 @@ npm install eslint
 npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 ```
 
-# Enable Import Auto Arrange
-- Add the following code your user settings.json:
-```
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": true,
-        "source.fixAll": true ,
-        "source.fixAll.eslint": true
-    },
-```
-
 # Folders
 - e2e: Contain spec files (the test cases)
 - page-objects: Contain the Constant, Selector, and Helper functions
