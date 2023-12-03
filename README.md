@@ -49,12 +49,12 @@ npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslin
 - Open cypress
 
 ```
-npx cypress open
+cypress open
 ```
 - Run cypress test cases
 
 ```
-npx cypress run
+cypress run
 ```
 
 # Cypress Commands
