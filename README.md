@@ -42,7 +42,7 @@ npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslin
 ```
 
 # Folders
-- integration: Contain spec files (the test cases)
+- e2e: Contain spec files (the test cases)
 - page-objects: Contain the Constant, Selector, and Helper functions
 
 # Quick Commands
