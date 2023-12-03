@@ -23,7 +23,7 @@ npm i typescript
 ```
 
 # Enable Linter
-- In VS Code, install the extension: ESLint (the one with over 10 millions download)
+- In VS Code, install the extension: ESLint
 - Install the eslint
 
 ```
