@@ -57,8 +57,5 @@ npx cypress open
 npx cypress run
 ```
 
-# Cypress Tutorial
-https://testautomationu.applitools.com/cypress-tutorial/
-
 # Cypress Commands
-[Framework for Cypress Automation](https://docs.cypress.io/api/commands/get)
+[Framework for Cypress Automation](https://docs.cypress.io/api/table-of-contents)
